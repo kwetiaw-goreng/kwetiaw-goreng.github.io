@@ -1,13 +1,3 @@
----
-layout: post
-title: Cora VS Childcare Germs ROUND 1
-subtitle: Germs make you strong
-#cover-img: /assets/img/path.jpg
-#thumbnail-img: /assets/img/thumb.png
-#share-img: /assets/img/path.jpg
-tags: [parenting]
----
-
 She must have caught them from one of the other kid at our local childcare centre. Everyone keeps saying this is ok and it helps them build their immunity against common virus and bacteria such as cold, flu, cough etc.Because soon or later, she’ll go to kindergarten and same thing would happen. I understand the concept but it still heart breaking seeing your daughter getting sick and seeing mum worried. We are 1st time parent you see, we maybe worrying bit too much.
 
 Sydney has becoming more expensive in the past decade and it seems very normal to see kids being cared by someone else in Childcare centres while both their parents go to work and earn a living.
