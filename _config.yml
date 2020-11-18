@@ -19,7 +19,7 @@ locale                   : "en-AU"
 title                    : "fahdy salim does things"
 title_separator          : "-"
 subtitle                 : "photography, computer, parenting and more"
-name                     : "Fahdy Salim"
+# name                     : "Fahdy Salim"
 description              : "logs of things i did"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Fahdy Salim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A father of 2 beautiful daughters and a husband to a beautiful woman"
+  bio              : ""
   location         : "Sydney"
   email            : fahdy@salim.id.au
   links:
