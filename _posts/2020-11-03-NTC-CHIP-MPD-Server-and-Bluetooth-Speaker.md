@@ -1,3 +1,5 @@
+title: "NextThingCo CHIP - MPD Server and Bluetooth Speaker"
+
 I found a Panasonic Amp/Player with 1 pair of speaker in my apartment's recycling room the other day. Brought it in and tested, all is working fine. Without going to the topic of how this society has becoming increasingly a 'throw away' society.
 
 I was pondering what to do with it, I can still play CDs if I have any around. There's DAB but it's missing the antenna. I dont have old iPhone laying around, thankfully my LG V30 has 3.5mm headphone jack, DAC capable too! So I tested it and it sounds pretty good, definitely better than your typical bluetooth speaker.
