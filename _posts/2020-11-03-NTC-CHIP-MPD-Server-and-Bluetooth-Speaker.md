@@ -1,5 +1,5 @@
 ---
-title: "NextThingCo CHIP - MPD Server and Bluetooth Speaker"
+title: "NextThingCo CHIP - MPD Server and Bluetooth Sink"
 ---
 
 I found a Panasonic Amp/Player with 1 pair of speaker in my apartment's recycling room the other day. Brought it in and tested, all is working fine. Without going to the topic of how this society has becoming increasingly a 'throw away' society.
