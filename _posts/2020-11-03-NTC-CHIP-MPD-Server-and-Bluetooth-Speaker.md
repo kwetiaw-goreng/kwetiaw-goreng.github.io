@@ -10,9 +10,9 @@ I then remember that I have tried using MPD many years ago and I too remember wh
 
 I'm glad there are still individual and reddit community that are keeping this device alive! thanks you!
 
-So I followed this guide to install MPD server and I connect it to my NAS where I keep all my music.
+So I followed this [guide](https://www.hackster.io/peter-nyboer/upcycle-your-old-speakers-with-c-h-i-p-4d16b2) to install MPD server and I connect it to my NAS where I keep all my music.
 
-For bluetooth speaker, I followed this guide 
+For bluetooth speaker, I followed this [guide](https://github.com/hadess/CHIP-bluetooth-speaker)
 
 It works and sounds great too!
 
