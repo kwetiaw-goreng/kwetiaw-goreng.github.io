@@ -2,4 +2,4 @@ My wife often has to go to work on the weekend, leaving me with a 16 months old 
 
 **How about a yummy pancake?**
 
-![Pancake Art](https://user-images.githubusercontent.com/56542674/99324795-1a513800-28c9-11eb-957b-72ab4c01faca.jpg)
+![Pancake Art](/assets/images/pootle_pancake.jpg)
