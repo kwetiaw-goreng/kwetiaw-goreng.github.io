@@ -4,7 +4,7 @@ title: Backup > Manage > Showcase-your digital photos with Resilio Sync > Exifto
 
 
 Backup, ugh…sounds boring.As a modern day photographer, having a proper backup of your digital photos is a must, but often being overlooked because, well it’s boring and time consuming.
-I personally have tried several different methods but none of them really tick my boxes. I used to perform manual backup over network or via USB cable to my home NAS when I “remember” (Not good enough!). I have lost few to many important photographs because of this.
+I personally have tried several different methods but none of them really tick my boxes. I used to perform manual backup over network or via USB cable to my home NAS when I “remember” (Not good enough!). I have lost way too many important photographs because of this.
 
 My requirements
 1. Automatic backup – must! (from multiple sources ios, android, windows/mac/linux)
@@ -25,3 +25,5 @@ exiftool -r -ext mp4 -ext jpg '-Directory</mnt/4tbexternal/docker/plex/plexmedia
 ````
 
 This line of code will rename, move and sort your photographs based on the metadata $CreateDate. The folder structure will look like this
+
+![directory_tree](/assets/images/photodirectorytree.png)
