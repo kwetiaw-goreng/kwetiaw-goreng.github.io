@@ -8,7 +8,7 @@ And guess what! Yes Cora got it too. YAY for mom and dad!
 
 She was happy chappy earlier in the day and just before dinner time we felt that her body temperature was rising and we thought because she had a full fun day. But little did we know, the virus was already in her and incubating (3-4 days)! We noticed an ulcer on a tip of her tongue which was hurting her when eating and breastfeeding.
 
-![This was her being cheeky!](/assets/images/dora-down-dog.png)
+![This was her being cheeky!](/assets/images/cora-down-dog.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2eTV8n9q7pU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
