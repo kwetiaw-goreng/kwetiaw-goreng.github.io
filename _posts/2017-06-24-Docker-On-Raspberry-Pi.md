@@ -4,7 +4,10 @@ title: Docker on Raspberry Pi 3
 
 Docker now runs on Raspberry Pi!
 Follow this [guide](https://www.raspberrypi.org/blog/docker-comes-to-raspberry-pi/) to install it on your Pi – Docker Raspberry Pi
-Or enter this one liner – curl -sSL https://get.docker.com | sh
+Or enter this one liner – 
+```powershell 
+curl -sSL https://get.docker.com | sh
+````
 
 Note, only container that was built specifically to run on armhf board will run on Raspberry Pi. Google keyword searches should include armhf, docker, raspberry pi
 
@@ -49,6 +52,7 @@ lsioarmhf/resilio-sync
 Copy and paste the above command and your container will be ready in no time. If the system does not spit any error message, most likely your container is now ready to be used. Point your browser to your Raspberry Pi IP Address http://rpi.ipaddress:8888 and you shall be greeted to set up Resilio Sync for the first time.
 Pro Tip – I typically add a line --restart=always to each of my container that I need it to start automatically after each host reboot or recovery from power failure, etc.
 
+```docker
 docker run -d \
 --name=resilio-sync \
 --restart=always \
@@ -58,6 +62,7 @@ docker run -d \
 -p 8888:8888 \
 -p 55555:55555 \
 lsioarmhf/resilio-sync
+````
 
 That’s it, now you can start experimenting with different services that potentially can save you money and be less reliant of the 3rd party that often sell your information to other 3rd party. Note: resilio sync is not an OSS (open source software) and I am awaiting Syncthing to allow selective folder sync before moving away from resilio sync.
 Here’s few ideas to get you started
