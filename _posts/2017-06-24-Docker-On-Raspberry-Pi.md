@@ -12,17 +12,17 @@ curl -sSL https://get.docker.com | sh
 Note, only container that was built specifically to run on armhf board will run on Raspberry Pi. Google keyword searches should include armhf, docker, raspberry pi
 
 Containers running on my Pi3?
-    *MariaDB (Database)
-    *MQTT (Location Tracking to be used alongside of HomeAssistant)
-    *NGINX with LetsEncrypt (Reverse Proxy to allow secure access to my internal services without having to port forward all the required ports)
-    *Resilio Sync (File Sharing/Cloud)
-    *Portainer (GUI interface to manage the containers)
-    *Organizr (Web Portal allowing easy access to my services)
-    *HASS (Home Automation Software)
+*  MariaDB (Database)
+*  MQTT (Location Tracking to be used alongside of HomeAssistant)
+*  NGINX with LetsEncrypt (Reverse Proxy to allow secure access to my internal services without having to port forward all the required ports)
+*  Resilio Sync (File Sharing/Cloud)
+*  Portainer (GUI interface to manage the containers)
+*  Organizr (Web Portal allowing easy access to my services)
+*  HASS (Home Automation Software)
 
 Other services that are not in containers
-    *Webmin
-    *SSH Server (Tunnel service while at work)
+*  Webmin
+*  SSH Server (Tunnel service while at work)
 
 I need the services above to run 24×7 and this is why Raspberry Pi fits the bill (I dont like seeing a fat electricity bill). To run a pi for the entire year will cost somewhere between $3-5 (varies of course)
 I need my documents all the time and resilio sync allows me to access my files from everywhere. I need my KeePass password book, lets be honest, we dont remember all the passwords and PINs and other security numbers.
@@ -31,8 +31,8 @@ I also need to be able to securely access my home network from work, secure SOCK
 Here’s a high level overview of the setup
 
 Additional hardware attached to the rPI
-    *USB 3.0 Stick 64GB (data storage for resilio sync)
-    *Home made RF Transceiver (to control RF enabled power outlets)
+*  USB 3.0 Stick 64GB (data storage for resilio sync)
+*  Home made RF Transceiver (to control RF enabled power outlets)
 
 Once you have prepared your Raspberry Pi with Docker, I recommend that you check out this Linux Server IO list of docker containers and make sure to select the armhf repository.
 Let’s do an example – Resilio Sync
@@ -66,7 +66,7 @@ lsioarmhf/resilio-sync
 
 That’s it, now you can start experimenting with different services that potentially can save you money and be less reliant of the 3rd party that often sell your information to other 3rd party. Note: resilio sync is not an OSS (open source software) and I am awaiting Syncthing to allow selective folder sync before moving away from resilio sync.
 Here’s few ideas to get you started
-*Have your files everywhere – [Syncthing](https://hub.docker.com/r/lsioarmhf/syncthing)
-*Have your own spotify with – [Libre Sonic](https://hub.docker.com/r/lsioarmhf/libresonic)
-*Run your own ebook library, because why not? – [ubooquity](https://hub.docker.com/r/lsioarmhf/ubooquity/)
-*Have fun!
+*  Have your files everywhere – [Syncthing](https://hub.docker.com/r/lsioarmhf/syncthing)
+*  Have your own spotify with – [Libre Sonic](https://hub.docker.com/r/lsioarmhf/libresonic)
+*  Run your own ebook library, because why not? – [ubooquity](https://hub.docker.com/r/lsioarmhf/ubooquity/)
+*  Have fun!
