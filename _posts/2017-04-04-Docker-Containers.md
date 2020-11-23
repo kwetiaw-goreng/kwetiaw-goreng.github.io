@@ -2,7 +2,7 @@
 title: Docker Container
 ---
 
-If you aren’t familiar with Docker, please visit the official Docker site on ![Docker](http://docker.com/)
+If you aren’t familiar with Docker, please visit the official Docker site on [Docker](http://docker.com/)
 
 ***Containers! Containers! Containers!***
 
