@@ -1,5 +1,5 @@
 ---
-title: Who Am I?
+permalink: /about/
 ---
 
 My name is Fahdy Salim. A father of 2 beautiful daughters and a husband to a beautiful woman. I have the following qualities:
