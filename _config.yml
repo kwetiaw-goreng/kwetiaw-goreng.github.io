@@ -280,7 +280,8 @@ defaults:
       comments: # true
       share: true
       related: true
-   - scope:
+  # _pages
+  - scope:
       path: ""
       type: pages
     values:
