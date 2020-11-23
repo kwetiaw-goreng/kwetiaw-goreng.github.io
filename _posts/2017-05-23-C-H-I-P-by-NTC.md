@@ -9,6 +9,8 @@ It can be run on Docker if you dont have linux server or SBC like C.H.I.P or Ras
 ***Kiss those annoying Ads goodbye!***
 
 ![chip 1](/assets/images/chip1.jpg)
+
 ![chip 2](/assets/images/chip2.jpg)
+
 ![chip 3](/assets/images/chip3.jpg)
 
