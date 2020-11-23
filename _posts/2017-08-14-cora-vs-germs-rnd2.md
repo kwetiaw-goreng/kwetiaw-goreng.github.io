@@ -1,5 +1,5 @@
 ---
-title: 
+title: Cora VS Germs - Round 2
 ---
 
 So we went to the doctor and Cora’s mouth was swabbed for lab test and the result shows she had Rhinovirus and Respiratory Syncytial Virus (RSV)
