@@ -30,6 +30,8 @@ I love my home automation and I love HomeAssistant, it’s just RAD! Home automa
 I also need to be able to securely access my home network from work, secure SOCKS5 SSH tunnel does the job!
 Here’s a high level overview of the setup
 
+![Raspberry Pi Docker](/assets/images/Docker Raspberry Pi 3.png)
+
 Additional hardware attached to the rPI
 *  USB 3.0 Stick 64GB (data storage for resilio sync)
 *  Home made RF Transceiver (to control RF enabled power outlets)
