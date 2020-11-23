@@ -35,6 +35,7 @@ Once you have prepared your Raspberry Pi with Docker, I recommend that you check
 Let’s do an example – Resilio Sync
 I have 64GB USB stick connected and mapped to /mnt/USB64GBstick/ and I usually create seperate folder for each of the services to avoid unwanted behaviour. You dont need to create the folder manually, docker will do it on your behalf. Notice on the below command, the -v flag will map host folder to the container. So what you create /mnt/USB64GBstick/resilio/config will correspond to /config inside the container
 
+```docker
 docker run -d \
 --name=resilio-sync \
 -v /mnt/USB64GBstick/resilio/config:/config \
@@ -43,6 +44,7 @@ docker run -d \
 -p 8888:8888 \
 -p 55555:55555 \
 lsioarmhf/resilio-sync
+````
 
 Copy and paste the above command and your container will be ready in no time. If the system does not spit any error message, most likely your container is now ready to be used. Point your browser to your Raspberry Pi IP Address http://rpi.ipaddress:8888 and you shall be greeted to set up Resilio Sync for the first time.
 Pro Tip – I typically add a line --restart=always to each of my container that I need it to start automatically after each host reboot or recovery from power failure, etc.
