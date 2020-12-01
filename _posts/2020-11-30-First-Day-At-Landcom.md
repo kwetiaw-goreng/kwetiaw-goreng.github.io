@@ -1,5 +1,6 @@
 ---
 title: First Day at Landcom as IT Support Analyst
+published: false
 ---
 
 small team gets to do everything. such fun!
