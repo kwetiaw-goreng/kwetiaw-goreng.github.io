@@ -6,7 +6,7 @@ Another night of recycling room adventure, this time I found what appears to be 
 Took it back home and connected to a MiniUSB charger, It turned ON and left it for good 1 hour for it to charge.
 However, it seems that the battery cannot hold charge anymore so I grabbed my tools and got to work.
 
-I hated this kind of design where a screw hole is too deep for your typical tool to go in. I dont have a long and thin screwdriver but I have a drill!
+I hate this kind of design where a screw hole is too deep for your typical tool to go in. I dont have a long and thin screwdriver but I have a drill!
 I made the hole bigger, big enough for one of my tool to go in. I ended up breaking the screwhole, but I didnt care because there 8+ other screw that will hold the 2 pieces together.
 
 ![](/assets/images/learning_chinese_tablet_05.jpg)
