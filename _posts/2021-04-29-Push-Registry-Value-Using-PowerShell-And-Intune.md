@@ -1,5 +1,5 @@
 ---
-title: Push Registry Value Using PowerShell And Intune
+title: Push Registry Value Using PowerShell And Intune (Microsoft Endpoint Manager)
 ---
 
 Simple PowerShell script to update a registry key value
@@ -36,7 +36,7 @@ Done!
 This may take 15 minutes to take effect and few more minutes before it gets pushed to the end user devices.
 You may force the devices to sync by going to **Windows Settings (WinKey + I)** > **Account** > **Access work or school** > **info** > press **Sync**
 
-and see it in action from the log file located C:\ProgramData\Microsoft\IntuneManagementExtension\Logs\IntuneManagementExtension.log
-Search for string [PowerShell]
+and see it in action from the log file located **C:\ProgramData\Microsoft\IntuneManagementExtension\Logs\IntuneManagementExtension.log**
+Search for string **[PowerShell]**
 
-That's it, I hope this will help tech out there!
+That's it!
