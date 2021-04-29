@@ -23,4 +23,12 @@ Select Yes on **Run Script in 64 bit PowerShell Host**
 
 ![Intune Portal](/assets/images/intune_scripts_2.png)
 
-Add the target groups
+Add the target groups 
+
+![Intune Portal](/assets/images/intune_scripts_3.png)
+
+Review and Add > Save
+
+![Intune Portal](/assets/images/intune_scripts_4.png)
+
+
