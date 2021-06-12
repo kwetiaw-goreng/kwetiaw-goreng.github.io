@@ -27,7 +27,7 @@ Almost there, you can either set your DNS individually at device level or at rou
 Open dashboard
 ![](/assets/images/adguard/adguard5.png)
 
-I used DDWRT firmware on my router, add your CHIP IP address to the Static DNS 1. Check your device manufacturer manual to figure out how to do this correctly, otherwise you will not be able to browse the web.
+I used DDWRT firmware on my router, add your CHIP IP address to the Static DNS 1. Check your device manufacturer manual to figure out how to do this correctly, otherwise you will not be able to browse the web. Set 8.8.8.8 to the Static DNS 2, so in case your CHIP fails, it will use the 2nd DNS as alternative.
 ![](/assets/images/adguard/ddwrt_dns_settings.png)
 
 Once set up, try navigating to a known website that has lots of intrusive Ads and you will be surprised to see how much faster your web page loads now.
