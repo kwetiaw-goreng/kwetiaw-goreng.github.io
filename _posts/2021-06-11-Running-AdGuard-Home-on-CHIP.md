@@ -1,6 +1,10 @@
 ---
 title: Running AdGuard Home on CHIP Computer
 ---
+Installing AdGuard home in linux is as easy as executing this command line
+Open Terminal
+Paste below
+`curl -sSL https://raw.githubusercontent.com/AdguardTeam/AdGuardHome/master/scripts/install.sh | sh`
 
 ![](/assets/images/adguard/adguard-chip.png)
 
