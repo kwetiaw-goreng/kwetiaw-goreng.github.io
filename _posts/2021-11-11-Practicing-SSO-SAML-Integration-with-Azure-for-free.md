@@ -1,5 +1,5 @@
 ---
-Title: Practicing SSO SAML Integration with Azure for free
+Title: "Practicing SSO SAML Integration with Azure for Free"
 ---
 
 Ever wondered how to learn to integrate SSO to Enterprise Application in Azure? For Free?
