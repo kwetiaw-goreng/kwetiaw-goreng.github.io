@@ -16,7 +16,7 @@ It used to be covered by a cap, but that was blown into pieces, exposing the wou
 
 ![](/assets/images/gba/gba3.png)
 
-Looking arond on ebay and locally, I cant seem to find the parts so my only option is to look further east, way further!
+Looking around on ebay and locally, I cant seem to find the parts so my only option is to look further east, way further!
 Good old Aliexpress has everything, including the part that i needed.
 ![](/assets/images/gba/gba5.png)
 
