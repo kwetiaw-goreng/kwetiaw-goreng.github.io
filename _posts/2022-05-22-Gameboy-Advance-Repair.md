@@ -12,11 +12,11 @@ After removing the back cover, it's not too bad inside honestly.
 ![](/assets/images/gba/gba2.png)
 
 Flipping the board upside down, I discovered what seems to be the root cause, it's a blown up component. After quick googling around for schematics, the component is called Power Transformer.
-There used to be covered with a cap, but that was blown into pieces, exposing the wounded up coils.
+It used to be covered by a cap, but that was blown into pieces, exposing the wounded up coils.
 
 ![](/assets/images/gba/gba3.png)
 
-Looking arond on ebay, I cant seem to find the parts so my only option is to look further east, way further!
+Looking arond on ebay and locally, I cant seem to find the parts so my only option is to look further east, way further!
 Good old Aliexpress has everything, including the part that i needed.
 ![](/assets/images/gba/gba5.png)
 
