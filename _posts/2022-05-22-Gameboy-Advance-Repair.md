@@ -21,7 +21,7 @@ Good old Aliexpress has everything, including the part that i needed.
 ![](/assets/images/gba/gba5.png)
 
 I placed the order and while waiting for the parts to arrive, which could take months. I decided to give the rest of the shell a clean since I already dismantled it anyway.
-Poppin the LCD out of ths case
+Poppin the LCD out of the case
 ![](/assets/images/gba/gba4.jpg)
 
 After many cotton buds and sprays of IPA, toothbrush here and there.
