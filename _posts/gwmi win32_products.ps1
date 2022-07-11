@@ -1,0 +1,1 @@
+gwmi win32_products
