@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-AU"
-title                    : "fahdy salim does it"
+title                    : "fahdy salim"
 title_separator          : "-"
 subtitle                 : "photography, computer, parenting and random musings"
 # name                     : "Fahdy Salim"
@@ -96,7 +96,7 @@ author:
   name             : "Fahdy Salim"
   avatar           : "/assets/images/fahdysalim.jpg"
 #  bio              : "I am an **amazing** person."
-  location         : "Sydney, Australia"
+  location         : "Perth, Australia"
 #  email            : 
   links:
     - label: "Email"
