@@ -8,8 +8,6 @@ aliases:
 share: true
 ---
 
-Tags: [howto]({{< ref "howto" >}}) [purview]({{< ref "purview" >}}) [microsoft365]({{< ref "microsoft365" >}})
-
 Make sure that the Parent label is not scoped for Meetings, it doesnt work (as of 08/08/2024)
 
 ```
@@ -50,3 +48,5 @@ References
 - [Set-Label (ExchangePowerShell) | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/module/exchange/set-label?view=exchange-ps)
 - [Connect to Security & Compliance PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/exchange/connect-to-scc-powershell?view=exchange-ps)
 - [Move AIP sublabels to a different parent label - Microsoft Community Hub](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/move-aip-sublabels-to-a-different-parent-label/m-p/2113853)
+
+[howto]({{< ref "howto" >}}) [purview]({{< ref "purview" >}}) [microsoft365]({{< ref "microsoft365" >}})
