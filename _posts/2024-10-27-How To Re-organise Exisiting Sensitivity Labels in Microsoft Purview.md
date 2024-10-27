@@ -45,8 +45,8 @@ First, change the parent to be the lower priority, for example priority 0
 
 Once you have all your sublabels set, you may wish to re-prioritise the label accordingly to your requirements
 
-[Set-Label (ExchangePowerShell) | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/module/exchange/set-label?view=exchange-ps)
+References
 
-[Connect to Security & Compliance PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/exchange/connect-to-scc-powershell?view=exchange-ps)
-
-[Move AIP sublabels to a different parent label - Microsoft Community Hub](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/move-aip-sublabels-to-a-different-parent-label/m-p/2113853)
+- [Set-Label (ExchangePowerShell) | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/module/exchange/set-label?view=exchange-ps)
+- [Connect to Security & Compliance PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/exchange/connect-to-scc-powershell?view=exchange-ps)
+- [Move AIP sublabels to a different parent label - Microsoft Community Hub](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/move-aip-sublabels-to-a-different-parent-label/m-p/2113853)
