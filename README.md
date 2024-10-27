@@ -1,9 +1,8 @@
-My name is Fahdy Salim. A father of 2 beautiful daughters and a husband to a beautiful woman. I have the following qualities:
+Hi, I'm Fahdy Salim, a computer engineer with following qualities:
 
-- In a computer a lot! 
 - Salt and pepper hair
 - I love photography
-- Azure and Microsoft 365 Engineer
+- Microsoft Azure and Microsoft 365 Engineer
 - Obsessed with making old things new again, especially through tech.
 
 **What's kwetiaw goreng?**
