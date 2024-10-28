@@ -26,11 +26,11 @@ Here's the code for the logic app, make sure to replace YOUR_SUBSCRIPTION_ID wit
    "contentVersion": "1.0.0.0",
    "parameters": {
       "connections_microsoftforms_externalid": {
-         "defaultValue": "/subscriptions/b5378d10-37f7-497e-9c9d-8deaef8ae479/resourceGroups/dt-staffphoto-npe/providers/Microsoft.Web/connections/microsoftforms",
+         "defaultValue": "/subscriptions/YOUR_SUBSCRIPTION_ID/resourceGroups/dt-staffphoto-npe/providers/Microsoft.Web/connections/microsoftforms",
          "type": "String"
       },
       "connections_onedriveforbusiness_externalid": {
-         "defaultValue": "/subscriptions/b5378d10-37f7-497e-9c9d-8deaef8ae479/resourceGroups/dt-staffphoto-npe/providers/Microsoft.Web/connections/onedriveforbusiness",
+         "defaultValue": "/subscriptions/YOUR_SUBSCRIPTION_ID/resourceGroups/dt-staffphoto-npe/providers/Microsoft.Web/connections/onedriveforbusiness",
          "type": "String"
       },
       "workflows_staff_photo_processor_name": {
@@ -226,12 +226,12 @@ Here's the code for the logic app, make sure to replace YOUR_SUBSCRIPTION_ID wit
                      "microsoftforms": {
                         "connectionId": "[parameters('connections_microsoftforms_externalid')]",
                         "connectionName": "microsoftforms",
-                        "id": "/subscriptions/b5378d10-37f7-497e-9c9d-8deaef8ae479/providers/Microsoft.Web/locations/australiaeast/managedApis/microsoftforms"
+                        "id": "/subscriptions/YOUR_SUBSCRIPTION_ID/providers/Microsoft.Web/locations/australiaeast/managedApis/microsoftforms"
                      },
                      "onedriveforbusiness": {
                         "connectionId": "[parameters('connections_onedriveforbusiness_externalid')]",
                         "connectionName": "onedriveforbusiness",
-                        "id": "/subscriptions/b5378d10-37f7-497e-9c9d-8deaef8ae479/providers/Microsoft.Web/locations/australiaeast/managedApis/onedriveforbusiness"
+                        "id": "/subscriptions/YOUR_SUBSCRIPTION_ID/providers/Microsoft.Web/locations/australiaeast/managedApis/onedriveforbusiness"
                      }
                   }
                }
