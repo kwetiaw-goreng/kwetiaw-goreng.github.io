@@ -8,7 +8,7 @@ aliases:
 share: true
 ---
 
-Create Microsoft Forms wit at least 2 questions, you may add some more depending on your requirement
+Create Microsoft Forms with at least 2 questions, you may add some more depending on your requirement
 
 My form only uses 2 questions, UserPrincipalName (Email) and the attachment question
 
