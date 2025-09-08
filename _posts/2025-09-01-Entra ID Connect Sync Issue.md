@@ -13,7 +13,6 @@ A configuration issue is preventing authentication - check the error message fro
 
 I was traversing the the internet without much luck, asked different forum and discord channels without any lead. 
 I have uninstalled, reinstalled the connector too many times, deleted all the related registration apps, cleaned cache location, and I gave up. Weeks gone by without resolution and just by accident I needed to access files stored on the server and I went to connect to the SMB path \\servername\c$ and then browser to Users, I found my answer here. Each time it does uninstall and reinstall, it created a folder and thats where all the caches are stored in. 
-
 I deleted it all and reinstalled the connector, it went successfully on the first attempt. 
 
 ![entra-connect-sync-users.png](/images/entra-connect-sync-users.png)
