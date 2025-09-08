@@ -5,6 +5,7 @@ tags:
 aliases:
 share: true
 ---
+# 2025-09-01-Entra ID Connect Sync Issue
 
 Error message that is documented in MS Learn but without recommended solution - [Microsoft Entra authentication & authorization error codes | Azure Docs](https://docs.azure.cn/en-us/entra/identity-platform/reference-error-codes)
 
