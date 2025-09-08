@@ -17,4 +17,4 @@ I deleted it all and reinstalled the connector, it went successfully on the firs
 ![entra-connect-sync-users.png](/images/entra-connect-sync-users.png)
 
 References:
-Error message that is documented in MS Learn but without recommended solution - [Microsoft Entra authentication & authorization error codes | Azure Docs](https://docs.azure.cn/en-us/entra/identity-platform/reference-error-codes)
+Error message that is documented in MS Docs but without recommended solution - [Microsoft Entra authentication & authorization error codes | Azure Docs](https://docs.azure.cn/en-us/entra/identity-platform/reference-error-codes)
