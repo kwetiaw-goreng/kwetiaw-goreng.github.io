@@ -15,4 +15,4 @@ I have uninstalled, reinstalled the connector too many times, deleted all the re
 
 I deleted it all and reinstalled the connector, it went successfully on the first attempt. 
 
-![entra-connect-sync-users.png.png](/images/entra-connect-sync-users.png.png)
+![entra-connect-sync-users.png](/images/entra-connect-sync-users.png)
