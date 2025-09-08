@@ -5,6 +5,7 @@ tags:
 aliases:
 share: true
 ---
+
 Error message that is documented in MS Learn but without recommended solution - [Microsoft Entra authentication & authorization error codes | Azure Docs](https://docs.azure.cn/en-us/entra/identity-platform/reference-error-codes)
 
 My homelab VM had a crash and I had to restore from snapshot, but in the process somehow the connect sync refuses to connect and throwing up error like below. I thought it would be easy fix, just reinstall the connect sync tool and move on. But, sadly it wasnt the case.
