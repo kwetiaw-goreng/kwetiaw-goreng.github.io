@@ -15,3 +15,5 @@ docker run -d --name ebook-server -p 8057:80 -v /path/to/local/files:/usr/local/
 ![ebook-server.png](/images/ebook-server.png)
 
 Now if you are lucky, your outdated web browser in your ebook reader might be able to open this site and download directly to the device. 
+
+![sony-prs-t2.jpg](/images/sony-prs-t2.jpg)
