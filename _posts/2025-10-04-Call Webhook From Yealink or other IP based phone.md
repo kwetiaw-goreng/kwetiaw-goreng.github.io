@@ -5,7 +5,6 @@ tags:
 aliases:
 share: true
 ---
-# 2025-10-04-Call Webhook From Yealink or other IP based phone
 I recently acquired a Yealink handset (Prime Business Phone SIP-T54W) with the intention to set up a cost effective home phone to be used for emergency situation. My daughters are too young to have their own mobile phones so if I am at the office and if in case of emergency, they know that they can use this phone to call me or other emergency services. 
 The VOIP provider that I use is CrazyTel and you can get started with them for cheap on their PAYG plan and they even give you a $2 credit to get you started.
 
