@@ -21,7 +21,7 @@ A very simple automation that just sends notification to my mobile
 
 Once you have saved the automation, the webhook ID is what you need to append to the end of the webhook URL, for example - YOUR-HASS-URL/api/webhook/WEBHOOK-ID
 
-Copy the URL and head to Yealink web GUI > Dsskey > Line Key > change the type to XML Browser and paste the URL > confirm to save
+Copy the URL and head to Yealink web GUI > Dsskey > Line Key > change the type to XML Browser and paste the URL > confirm to save.
 ![yealink-xml-browser-webook.png](/images/yealink-xml-browser-webook.png)
 
 In my case, pressing Speed Dial 8 will trigger the automation.
